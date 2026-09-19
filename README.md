@@ -1,5 +1,13 @@
 # Kioji Investments Ltd
 
-Image assets prepared for the Kioji Investments Ltd coffee sourcing and export website.
+A responsive, five-page website for a Ugandan coffee sourcing and export company.
 
-The website build will use locally stored imagery from `assets/images/`.
+## Pages
+
+- Home
+- About
+- Our coffee
+- Farmer partnerships
+- Contact and enquiries
+
+Built with semantic HTML, one shared stylesheet and minimal JavaScript. All coffee photography is stored locally in `assets/images/`.
